@@ -44,5 +44,3 @@ The assignment revolves around an **eCommerce Transactions Dataset** and consist
    pip install -r requirements.txt
    ```
 3. Run the notebooks in Jupyter.
-
-📢 **Feel free to explore, fork, and suggest improvements!** 🎯
